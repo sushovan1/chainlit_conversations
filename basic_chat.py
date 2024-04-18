@@ -14,7 +14,7 @@ from openai import AsyncOpenAI
 
 client = AsyncOpenAI(
   base_url="https://openrouter.ai/api/v1",
-  api_key="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",
+  api_key="xxxxxxxxxxxxxxxxxxxxxxxxx",
 )
 settings = {
     "model": "google/gemma-7b-it:free",
